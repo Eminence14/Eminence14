@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Victor Ibidunmoye
 =========================================================================================================================================
 
-Front end web developer.
+Software Developer | Front End Dev
 ------------------------
 
 I took my development journey seriously in 2020 but started in 2019. I played with HTML and CSS for till 2021 when I felt the need to do more with Javascript which I also began projects with in 2022. All through, I've consistently committed myself to building projects both mini and normal, which by far had helped me than the tutorials watched.
