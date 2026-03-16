@@ -7,11 +7,11 @@ Software Developer | Front End Dev
 I took my development journey seriously in 2020 but started in 2019. I played with HTML and CSS for till 2021 when I felt the need to do more with Javascript which I also began projects with in 2022. All through, I've consistently committed myself to building projects both mini and normal, which by far had helped me than the tutorials watched.
 
 * 🌍  I'm based in Ibadan
-* 🖥️  See my portfolio at [ibidunmoye-victor.netlify.app](http://ibidunmoye-victor.netlify.app)
-* ✉️  You can contact me at [vibidunmoye@gmail.com](mailto:vibidunmoye@gmail.com)
-* 🧠  I'm learning TailwindCSS
-* 🤝  I'm open to collaborating on amazing projects (websites and web applications)
-* ⚡  I love bugs (keep it a secret)
+* 🖥️  See my portfolio at [ibidun.netlify.app]([http://ibidun.netlify.app])
+* ✉️  You can contact me at [victoribidunmoye@gmail.com](mailto:victoribidunmoye@gmail.com)
+* 🧠  I'm learning Renewable Energy Systems
+* 🤝  I'm open to collaborating on amazing projects.
+* ⚡  Mantra: monozukuri
 
 ### Skills
 
